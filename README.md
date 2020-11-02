@@ -2,21 +2,18 @@
 
 <a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=250 height=50 hspace="5">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=250 height=50 hspace="10">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=250 height=50></a>
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Data Science Enthusiast, Python Automation Intern, Blogger, and Programmer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just Completed my M.C.A.(Hons.) From Lovely Professional University!
+- 🌱 I’m currently learning Machine Learning and Deep Learning using Python.
+- 👯 Eagerly looking for ML | DL Internship/Job || 2x Kaggle Expert.
+- 🥅 2020 Goals: Learn and Contribute more towards Data Science Community.
+- ⚡ Fun fact: I love to Listen Music and Travelling.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<a href="https://www.amarkumar.tk/"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />,</a>]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
