@@ -2,7 +2,7 @@
 
 <a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=250 height=50 hspace="5">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=250 height=50 hspace="10">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=250 height=50></a>
 
-## I'm a Data Science Enthusiast, Python Automation Intern, Blogger, & Programmer!
+## I'm a Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
 - 🔭 I've just Completed my M.C.A.(Hons.) From Lovely Professional University!
 - 🌱 I’m currently learning Machine Learning and Deep Learning using Python.
@@ -20,8 +20,7 @@
 <a href="https://www.instagram.com/akrocks720/"><img align="left" alt="AmarKumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.kaggle.com/datawarriors"><img align="left" alt="AmarKumar | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kaggle.svg" /></a>
 <a href="https://www.hackerrank.com/amark720"><img align="left" alt="AmarKumar | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=amark720@gmail.com&tf=1"><img align="left" alt="AmarKumar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg /></a>
-
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=amark720@gmail.com&tf=1"><img align="left" alt="AmarKumar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
 <br />
 
 ### Languages and Tools:
@@ -38,5 +37,4 @@
 <img align="left" alt="DJANGO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 
-<br />
 <br />
