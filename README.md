@@ -1,9 +1,6 @@
 ### Hi there 👋
-[![Website](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Data%20Science%20icon.png)](https://datahunger.blogspot.com/)
-[![Website](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML%20icon.png)](https://datahunger.blogspot.com/)
-[![Website](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Deep%20Learning%20icon.png)](https://datahunger.blogspot.com/)
 
-<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=300 height=50 hspace="20">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=300 height=50 hspace="20">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=300 height=50>
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=300 height=50 hspace="5">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=300 height=50 hspace="10">  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=300 height=50>
 <!--
 **amark720/amark720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
