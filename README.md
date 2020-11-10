@@ -1,6 +1,6 @@
 ### Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋
 
-<a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=250 height=50 > <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=250 height=50 >  <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=250 height=50></a>
+<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=250 height=50 ></a> <a href="https://github.com/amark720/Data-Science-Projects/tree/master/Machine%20Learning%20Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=250 height=50 ></a>  <a href="https://github.com/amark720/Data-Science-Projects/tree/master/Deep%20Learning%20Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=250 height=50></a>
 
 ## I'm a Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
