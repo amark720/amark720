@@ -14,7 +14,7 @@
 
 ### My Blogs:
 
-<a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataHunger%20Logo.PNG" width=300 height=80 > </a> <a href="https://udemyking.blogspot.com/" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/UdemyKing%20Logo%20Home.PNG" width=300 height=80 > </a> 
+<a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataHunger%20Logo.PNG" width=300 height=80 > </a> <a href="https://udemyking.com/" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/UdemyKing%20Logo%20Home.PNG" width=300 height=80 > </a> 
 
 ### Connect with me:
 
