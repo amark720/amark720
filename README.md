@@ -1,6 +1,6 @@
 ### Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋
 
-## I'm a Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
+## A Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
 - 🎓 Completed my M.C.A.(Hons.) From Lovely Professional University!
 - 🖥 Currently Studying Machine Learning and Deep Learning techniques using Python.
