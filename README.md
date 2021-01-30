@@ -1,6 +1,6 @@
-### Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=150 height=40 ></a>
+## Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=180 height=35 ></a>
 
-## A Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
+### A Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
 - 🎓 Completed my M.C.A.(Hons.) From Lovely Professional University!
 - 🖥 Currently Studying Machine Learning and Deep Learning techniques using Python.
