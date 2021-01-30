@@ -1,5 +1,4 @@
-## Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://drive.google.com/uc?export=download&id=1VsV7s3u2BApmdzL0QvFvtDRWrDsiS2CL" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=165 height=30 ></a>
-
+## Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/) 👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://drive.google.com/uc?export=download&id=1VsV7s3u2BApmdzL0QvFvtDRWrDsiS2CL" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=165 height=30 ></a>
 ### A Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
 - 🎓 Completed my M.C.A.(Hons.) From Lovely Professional University!
