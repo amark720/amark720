@@ -17,14 +17,15 @@
 
 ### Connect with me:
 
-<a href="https://www.amarkumar.tk/"><img align="left" alt="AmarKumar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.youtube.com/channel/UC3LkrDpaGxsJvr6AkT-O_WQ"><img align="left" alt="AmarKumar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://twitter.com/AMARK720"><img align="left" alt="AmarKumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/amark720/"><img align="left" alt="AmarKumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.amarkumar.tk/"><img align="left" alt="AmarKumar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.instagram.com/akrocks720/"><img align="left" alt="AmarKumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/AMARK720"><img align="left" alt="AmarKumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.kaggle.com/datawarriors"><img align="left" alt="AmarKumar | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kaggle.svg" /></a>
 <a href="https://www.hackerrank.com/amark720"><img align="left" alt="AmarKumar | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" /></a>
+<a href="https://www.youtube.com/channel/UC3LkrDpaGxsJvr6AkT-O_WQ"><img align="left" alt="AmarKumar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="mailto:amark720@gmail.com"><img align="left" alt="AmarKumar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
+<a href="https://stackoverflow.com/users/11183478/amar-kumar"><img align="left" alt="AmarKumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" /></a>
 <br />
 
 ### Languages and Tools:
