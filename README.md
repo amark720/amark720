@@ -4,8 +4,9 @@
 - 🎓 Completed my M.C.A.(Hons.) From Lovely Professional University!
 - 🖥 Currently Studying Machine Learning and Deep Learning techniques using Python.
 - 🕵️ Eagerly looking for ML | DL Internship/Job || 2x Kaggle Expert.
-- 🥅 2020 Goals: Learn and Contribute more towards Data Science Community.
+- 🥅 2021 Goals: Learn and Contribute more towards Data Science Community.
 - 😋 Fun fact: I love to Listen Music and Travelling.
+- 📌 Scroll down to see my **Pinned Repositories**.
 
 ### My Projects on:
 
