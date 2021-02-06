@@ -2,10 +2,9 @@
 ### A Data Science Enthusiast, Python Automation Intern, Programmer, & Blogger!
 
 - 🎓 Completed **M.C.A.(Hons.)** From Lovely Professional University!
-- 🖥 Currently working on Machine Learning and Deep Learning techniques using Python.
+- 🖥 Currently working on Machine Learning & Deep Learning techniques.
 - 🕵️ Eagerly looking for ML | DL Internship/Job || 2x Kaggle Expert.
-- 🥅 2021 Goals: Learn and Contribute more towards Data Science Community.
-- 😋 Fun fact: I love to Listen Music and Travelling.
+- 🎯 2021 Goals: Learn and Contribute more towards Data Science Community.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 ### My Projects on:
