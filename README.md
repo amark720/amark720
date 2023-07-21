@@ -37,7 +37,6 @@
 <img align="left" alt="numpy" width="28px" src="https://www.svgrepo.com/show/354127/numpy.svg" />
 <img align="left" alt="Tableau" width="28px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="jupyter" width="28px" src="https://www.svgrepo.com/show/353949/jupyter.svg" />
 <img align="left" alt="SQL" width="28px" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Flask" width="28px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/flask_logo1.jpg" />
