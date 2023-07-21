@@ -24,9 +24,9 @@
 <a href="https://wa.link/8tivov"><img align="left" alt="AmarKumar | WhatsApp" width="30px" src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" /></a>
 <a href="https://www.amarkumar.in/"><img align="left" alt="AmarKumar" width="30px" src="https://www.svgrepo.com/show/513304/globe-2.svg" /></a>
 <a href="https://stackoverflow.com/users/11183478/amar-kumar"><img align="left" alt="AmarKumar | Twitter" width="30px" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" /></a>
-<a href="https://www.kaggle.com/datawarriors"><img align="left" alt="AmarKumar | Kaggle" width="18px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/kaggle-blue.svg" /></a>
 <a href="mailto:amark720@gmail.com"><img align="left" alt="AmarKumar | Email" width="30px" src="https://www.svgrepo.com/show/353812/google-gmail.svg" /></a>
 <a href="https://www.hackerrank.com/amark720"><img align="left" alt="AmarKumar | Hackerrank" width="30px" src="https://img.icons8.com/?size=512&id=h5EUmNCXhSH0&format=png" /></a>
+<a href="https://www.kaggle.com/datawarriors"><img align="left" alt="AmarKumar | Kaggle" width="18px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/kaggle-blue.svg" /></a>
 <br />
 <br />
 ### Languages and Tools:
@@ -36,13 +36,12 @@
 <img align="left" alt="scikit-learn" width="32px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SK-Learn-Logo.png" />
 <img align="left" alt="numpy" width="28px" src="https://www.svgrepo.com/show/354127/numpy.svg" />
 <img align="left" alt="Tableau" width="28px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
-<img align="left" alt="jupyter" width="28px" src="https://www.svgrepo.com/show/353949/jupyter.svg" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="SQL" width="28px" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Flask" width="28px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/flask_logo1.jpg" />
 <img align="left" alt="DJANGO" width="32px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/django_logo.svg" />
 <img align="left" alt="GitHub" width="28px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
-
+<img align="left" alt="jupyter" width="28px" src="https://www.svgrepo.com/show/353949/jupyter.svg" />
+<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br />
