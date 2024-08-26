@@ -52,4 +52,4 @@
 
 ### 📶GitHub Stats:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center" height=200 /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center" height=200 />
