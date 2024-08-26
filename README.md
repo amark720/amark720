@@ -52,10 +52,4 @@
 
 ### 📶GitHub Stats:
 
-<a href="http://amarkumar.in/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center"/>
-</a>
-&nbsp;&nbsp;
-<a href="http://amarkumar.in/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center"/>
