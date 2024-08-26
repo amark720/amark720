@@ -7,15 +7,17 @@
 - 🎯 2024 Goals: Learn and Contribute more towards Data Science Community.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
-### My Projects on:
+### 📁My Projects on:
 
 <a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DS.jpg" width=250 height=50 ></a> <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ML.jpg" width=250 height=50 ></a>  <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DL1.jpg" width=250 height=50></a>
+<br />
 
-### My Blogs:
+### 💻My Blogs:
 
 <a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataHunger%20Logo.PNG" width=250 height=60 > </a> <a href="https://udemyking.com/" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/UdemyKing%20Logo%20Home.png" width=250 height=60 > </a> 
+<br />
 
-### Connect with me:
+### 🤝Connect with me:
 
 <a href="https://www.linkedin.com/in/amark720/"><img align="left" alt="AmarKumar | LinkedIn" width="30px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" /></a>
 <a href="https://www.instagram.com/akrocks720/"><img align="left" alt="AmarKumar | Instagram" width="30px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" /></a>
@@ -29,7 +31,8 @@
 <a href="https://www.kaggle.com/datawarriors"><img align="left" alt="AmarKumar | Kaggle" width="18px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/kaggle-blue.svg" /></a>
 <br />
 <br />
-### Languages and Tools:
+
+### 🛠️Languages and Tools:
 
 <img align="left" alt="PYTHON" width="28px" src="https://www.svgrepo.com/show/354238/python.svg" />
 <img align="left" alt="tensorflow" width="28px" src="https://www.svgrepo.com/show/354440/tensorflow.svg" />
@@ -45,3 +48,13 @@
 <img align="left" alt="GitHub" width="28px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
 
 <br />
+<br />
+
+### 📶GitHub Stats:
+
+<a href="http://amarkumar.in/">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center"/>
+</a>
+<a href="http://amarkumar.in/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center"/>
+</a>
