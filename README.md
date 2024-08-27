@@ -46,7 +46,6 @@
 <img align="left" alt="Flask" width="28px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/flask_logo1.jpg" />
 <img align="left" alt="DJANGO" width="32px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/django_logo.svg" />
 <img align="left" alt="GitHub" width="28px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
-
 <br />
 <br />
 
