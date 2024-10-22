@@ -51,4 +51,4 @@
 
 ### 📶GitHub Stats:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center" width=470 height=200 /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center" width=340 height=200 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center" width=470 height=200 /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center" width=340 height=194 />
