@@ -9,7 +9,7 @@
 
 ### 📁My Projects on:
 
-<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=200 height=50 ></a> <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=200 height=50 ></a>  <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=200 height=50></a>  <a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=200 height=50></a> 
+<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=205 height=60 ></a> <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=205 height=60 ></a>  <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=205 height=60></a>  <a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=205 height=60></a> 
 
 ### 💻My Blogs:
 
