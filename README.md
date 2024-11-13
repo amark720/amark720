@@ -1,7 +1,7 @@
 ## Hi there, I'm [Amar Kumar!](https://www.amarkumar.in/)👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://drive.google.com/uc?export=download&id=1mBq86ba59VPvxapY1HBeIemh_m_Me8zt" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=165 height=30 ></a>
 
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3500&pause=1000&color=41FF04&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Data+Scientist+at+GS+Lab!;%E2%AD%90%EF%B8%8F+4%2B+Years+of+Coding+Experience!;%F0%9F%93%9A+Always+Learning+New+Things!" alt="Data Scientist at GS Lab!, 4+ Years of Coding Experience!, Always Learning New Things!"></a></div>
-<img align="right" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Working%20Man.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Working%20Man.gif?raw=true" width=25% height=70%>
 
 - 🎓 Completed **M.C.A.(Hons.)** From Lovely Professional University!
 - 💼 Currently working on Computer Vision, NLP & Deep Learning projects.
