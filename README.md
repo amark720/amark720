@@ -36,7 +36,7 @@
 <br />
 <br />
 
-## 🛠️Languages and Tools:
+## <img align="center" alt="Folder" width="50px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/coding-gif.gif" /> Languages and Tools:
 
 <a href="https://www.amarkumar.in/"><img align="left" alt="PYTHON" width="28px" src="https://www.svgrepo.com/show/354238/python.svg" /></a>
 <a href="https://www.amarkumar.in/"><img align="left" alt="tensorflow" width="28px" src="https://www.svgrepo.com/show/354440/tensorflow.svg" /></a>
