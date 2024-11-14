@@ -53,7 +53,7 @@
 <br />
 <br />
 
-## <img align="center" alt="Folder" width="50px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/chart-gif.gif" />GitHub Stats:
+## <img align="center" alt="Folder" width="45px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/chart-gif.gif" />GitHub Stats:
 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center" width=470 height=200 /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center" width=340 height=194 /> |
 | ------------ | ------------ | 
