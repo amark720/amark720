@@ -12,7 +12,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-## 📁My Projects on:
+## <img align="center" alt="Folder" width="50px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Folder-Animation.gif" />My Projects on:
 
 <a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=205 height=60 ></a> <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=205 height=60 ></a>  <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=205 height=60></a>  <a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=205 height=60></a> 
 
