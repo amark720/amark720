@@ -12,7 +12,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-## <img align="center" alt="Folder" width="50px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Folder-Animation.gif" /> My Projects on:
+## <img align="center" alt="Folder" width="40px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Folder-Animation.gif" /> My Projects on:
 
 <a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=205 height=60 ></a> <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=205 height=60 ></a>  <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=205 height=60></a>  <a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=205 height=60></a> 
 
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-## <img align="center" alt="Folder" width="50px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/coding-gif.gif" />Languages and Tools:
+## <img align="center" alt="Folder" width="45px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/coding-gif.gif" />Languages and Tools:
 
 <a href="https://www.amarkumar.in/"><img align="left" alt="PYTHON" width="28px" src="https://www.svgrepo.com/show/354238/python.svg" /></a>
 <a href="https://www.amarkumar.in/"><img align="left" alt="tensorflow" width="28px" src="https://www.svgrepo.com/show/354440/tensorflow.svg" /></a>
@@ -53,7 +53,7 @@
 <br />
 <br />
 
-## <img align="center" alt="Folder" width="45px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/chart-gif.gif" /> GitHub Stats:
+## <img align="center" alt="Folder" width="42px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/chart-gif.gif" /> GitHub Stats:
 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=amark720&theme=dark&hide_border=false" align="center" width=470 height=200 /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=dark" align="center" width=340 height=194 /> |
 | ------------ | ------------ | 
