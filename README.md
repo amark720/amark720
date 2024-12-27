@@ -14,16 +14,16 @@
 
 ## <img align="center" alt="Folder" width="40px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Folder-Animation.gif" /> My Projects on:
 
-<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=270 height=60 ></a> 
-<a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=270 height=60 ></a> <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=270 height=60></a> <br> <br>
-<a href="https://github.com/amark720/NLP-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/NLP&GenAIBtn.png" width=270 height=60></a>  <a href="https://github.com/amark720/Python_Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/PythonProjectsBtn.png" width=270 height=60></a> 
-<a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=270 height=60></a>
+<a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=250 height=60 ></a> 
+<a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=250 height=60 ></a> <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=250 height=60></a> <br> <br>
+<a href="https://github.com/amark720/NLP-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/NLP&GenAIBtn.png" width=250 height=60></a>  <a href="https://github.com/amark720/Python_Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/PythonProjectsBtn.png" width=250 height=60></a> 
+<a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=250 height=60></a>
 
 ## <img align="center" alt="Folder" width="40px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Laptop-gif.gif" /> My Blogs:
 
-<a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataHunger%20Logo.PNG" width=274 height=60 ></a> 
-<a href="https://FreshersGold.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/FreshersGold%20Banner.jpg" width=274 height=60 ></a> 
-<a href="https://udemyking.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/UdemyKing%20Logo%20Home.png" width=274 height=60 ></a> 
+<a href="https://datahunger.blogspot.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataHunger%20Logo.PNG" width=270 height=60 ></a> 
+<a href="https://FreshersGold.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/FreshersGold%20Banner.jpg" width=270 height=60 ></a> 
+<a href="https://udemyking.com/" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/UdemyKing%20Logo%20Home.png" width=270 height=60 ></a> 
 <br>
 
 ## <img align="center" alt="Folder" width="40px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Social-Media.gif" /> Connect with me:
