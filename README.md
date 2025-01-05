@@ -15,7 +15,7 @@
 ## <img align="center" alt="Folder" width="40px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Folder-Animation.gif" /> My Projects on:
 
 <a href="https://github.com/amark720/Data-Science-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DataScienceBtn.jpg" width=250 height=60 ></a> 
-<a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=250 height=60 ></a> <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=250 height=60></a> <br> <br>
+<a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/MachineLearningBtn.jpg" width=250 height=60 ></a> <a href="https://github.com/amark720/Deep-Learning-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DeepLearningBtn.jpg" width=250 height=60></a> <br/>
 <a href="https://github.com/amark720/NLP-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/NLP&GenAIBtn.png" width=250 height=60></a>  <a href="https://github.com/amark720/Python_Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/PythonProjectsBtn.png" width=250 height=60></a> 
 <a href="https://github.com/amark720/SQL-Projects" target="_blank"> <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/SQLProjectsBtn.jpg" width=250 height=60></a>
 
