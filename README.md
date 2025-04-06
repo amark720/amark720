@@ -30,7 +30,7 @@
 
 <a href="https://www.linkedin.com/in/amark720/"><img align="left" alt="AmarKumar | LinkedIn" width="30px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" /></a>
 <a href="https://www.instagram.com/akrocks720/"><img align="left" alt="AmarKumar | Instagram" width="30px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" /></a> 
-<a href="https://www.facebook.com/profile.php?id=100005621503925"><img align="left" alt="AmarKumar | Facebook" width="30px" src="https://www.svgrepo.com/show/303113/facebook-icon-logo.svg" /></a>
+<a href="https://www.facebook.com/akrocks720/"><img align="left" alt="AmarKumar | Facebook" width="30px" src="https://www.svgrepo.com/show/303113/facebook-icon-logo.svg" /></a>
 <a href="https://twitter.com/AMARK720"><img align="left" alt="AmarKumar | Twitter" width="30px" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" /></a>
 <a href="https://wa.link/8tivov"><img align="left" alt="AmarKumar | WhatsApp" width="30px" src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" /></a>
 <a href="https://www.amarkumar.in/"><img align="left" alt="AmarKumar" width="30px" src="https://www.svgrepo.com/show/513304/globe-2.svg" /></a>
