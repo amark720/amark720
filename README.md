@@ -63,7 +63,7 @@
 | <img src="https://github-stats-alpha.vercel.app/api?username=amark720&cc=141321&tc=e6edf3&ic=ff2d55" align="center" width=450 height=200 /> | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=amark720&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" align="center" width=450 height=200 /> |
 | ------------ | ------------ | 
 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=amark720&bg_color=141321&color=e6edf3&line=ff2d55&point=ff7a9c&area=true&hide_border=true" align="center" width=650 height=250 /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amark720&layout=compact&theme=radical" align="center" width=250 height=300 /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=amark720&bg_color=141321&color=e6edf3&line=ff2d55&point=ff7a9c&area=true&hide_border=true" align="center" width=650 height=250 /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amark720&layout=compact&theme=radical" width="250" /> |
 | ------------ | ------------ | 
 
 <!--
