@@ -60,7 +60,7 @@
 
 ## <img align="center" alt="Folder" width="42px" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/chart-gif.gif" /> GitHub Stats:
 
-| <img src="https://github-readme-streak-stats-eight.vercel.app/?user=amark720&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" align="center" width=470 height=200 /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark720&layout=compact&theme=radical" align="center" width=340 height=194 /> |
+| <img src="https://github-readme-streak-stats-eight.vercel.app/?user=amark720&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" align="center" width=470 height=200 /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amark720&layout=compact&theme=radical" align="center" width=340 height=194 /> |
 | ------------ | ------------ | 
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=800&size=26&duration=3500&pause=1000&color=FF07F1&center=true&width=435&lines=%F0%9F%99%8FThanks+For+Your+Visit!%F0%9F%99%8F;%F0%9F%98%8AHave+a+Nice+Day!%F0%9F%98%8A" alt="🙏Thanks For Your Visit!🙏, 😊Have a Nice Day!😊"></a></div>
