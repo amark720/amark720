@@ -63,8 +63,13 @@
 | <img src="https://github-stats-alpha.vercel.app/api?username=amark720&cc=141321&tc=e6edf3&ic=ff2d55" align="center" width=450 height=200 /> | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=amark720&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" align="center" width=450 height=200 /> |
 | ------------ | ------------ | 
 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=amark720&bg_color=141321&color=e6edf3&line=ff2d55&point=ff7a9c&area=true&hide_border=true" align="center" width=630 height=220 /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amark720&layout=compact&theme=radical" align="center" width=270 height=300 /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=amark720&bg_color=141321&color=e6edf3&line=ff2d55&point=ff7a9c&area=true&hide_border=true" align="center" width=650 height=250 /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amark720&layout=compact&theme=radical" align="center" width=250 height=300 /> |
 | ------------ | ------------ | 
+
+<!--
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=amark720&bg_color=141321&color=e6edf3&line=ff2d55&point=ff7a9c&area=true&hide_border=true" align="center" width=930 height=320 /> |
+| ------------ |
+-->
 
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=800&size=26&duration=3500&pause=1000&color=FF07F1&center=true&width=435&lines=%F0%9F%99%8FThanks+For+Your+Visit!%F0%9F%99%8F;%F0%9F%98%8AHave+a+Nice+Day!%F0%9F%98%8A" alt="🙏Thanks For Your Visit!🙏, 😊Have a Nice Day!😊"></a></div>
